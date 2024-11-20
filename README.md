@@ -1,5 +1,47 @@
 # Empleados
 
+## comandos
+>- ng new empleados --standalone
+>- css
+>- cd empleados
+>- codium .
+>- npm install bootstrap
+>- ng g c presentation/employees/list-employees
+>- ng g c presentation/employees/create-employe
+>- ng g c presentation/employees/navbar
+
+## Sección 1: Introducción
+
+### 1. Instalación Nodejs y Angular-cli
+
+### 2. Nota
+
+### 3. Creación del proyecto - Agregamos bootstrap
+
+## Sección 2: App Empleados - Maquetación
+
+### 4. Creación de componentes y servicio
+>- https://getbootstrap.com/docs/5.3/components/navbar/
+
+### 5. List Empleados HTML
+>- https://getbootstrap.com/docs/5.3/components/navbar/
+>- https://getbootstrap.com/docs/5.3/content/tables/
+
+### 6. Agregamos imagen de fondo
+>- https://uigradients.com/#SandtoBlue
+
+### 7. Agregamos fontawesome - Iconos editar y eliminar
+>- npm install @fortawesome/fontawesome-free
+>- agregar a angular.json styles
+>- npm install @fortawesome/angular-fontawesome @fortawesome/fontawesome-svg-core @fortawesome/free-solid-svg-icons
+>- https://fontawesome.com/icons/trash-alt?style=solid&s=solid
+
+
+### 8. Routing
+
+### 9. Crear Empleado HTML
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.0.3.
 
 ## Development server
