@@ -10,6 +10,9 @@
 >- ng g c presentation/employees/create-employe
 >- ng g c presentation/employees/navbar
 
+## curso
+>- https://www.udemy.com/course/app-empleado-angular-firebase/learn/lecture/23632176#overview
+
 ## Sección 1: Introducción
 
 ### 1. Instalación Nodejs y Angular-cli
